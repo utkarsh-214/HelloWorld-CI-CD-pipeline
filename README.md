@@ -3,7 +3,7 @@ Basic helloworld project deployment on jenkins
 
 ## Setup For project        
 ### Step 1
-install all the required libraries for python using
+install all the required libraries for python using.
 ```pip install -r requirements.txt```
 
 ### Step 2 
