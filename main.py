@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello, World!, push for webhook"}
+    return {"message": "Hello, World!"}
